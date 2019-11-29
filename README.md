@@ -42,21 +42,22 @@ Nationality (Country Squad Overall)
 * Germany 4-3-1-2 85.64
 * Germany 4-3-3 85.91
 * Germany 4-2-3-1 85.73
-Squad Overall
+
+# Squad Overall
 Nationality (Country Squad Overall)
 * France 3-4-3 85.64
 * France 4-4-2 85.36
 * France 4-3-1-2 86.36
 * France 4-3-3 85.64
 * France 4-2-3-1 85.55
-Squad Overall
+# Squad Overall
 Nationality (Country Squad Overall)
 * Spain 3-4-3 86.36
 * Spain 4-4-2 86.18
 * Spain 4-3-1-2 86.91
 * Spain 4-3-3 86.82
 * Spain 4-2-3-1 86.82
-Squad Overall
+# Squad Overall
 Nationality (Country Squad Overall)
 * Brazil 3-4-3 85.82
 * Brazil 4-4-2 84.64
