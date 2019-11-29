@@ -24,11 +24,11 @@ Using tuple to get the top index
 * Position RWB: Pace, Base Stats, Physicality
 * Position ST: Base Stats, Pace, Physicality
 
-The attributes of Attacker, Defender, Goal Keeper and Midfielder
-Position Attacker: Pace, Dribbling, Shooting, Physicality
-Position Defender: Physicality, Defending, Pace, Dribbling
-Position Goal Keeper: Dribbling, Pace, Physicality, Shooting
-Position Midfielder: Pace, Dribbling, Physicality, Passing
+* The attributes of Attacker, Defender, Goal Keeper and Midfielder
+* Position Attacker: Pace, Dribbling, Shooting, Physicality
+* Position Defender: Physicality, Defending, Pace, Dribbling
+* Position Goal Keeper: Dribbling, Pace, Physicality, Shooting
+* Position Midfielder: Pace, Dribbling, Physicality, Passing
 
 Interactive scatter plots are made to allow the selection of attributes of interest to check the correlation, the color and size are also the variables which allow users to select. 
 Since there are a total of 136 countries in FIFA in 2019, a further understanding of each field position group; player strength based on the continent, the top three performing continents in the positions of Attacker. Midfielder, Goal Keeper and Defenders are South America, Europe and Africa
